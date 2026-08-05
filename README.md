@@ -55,6 +55,9 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 * 💗 **Python projects**
   ETL, data processing, analysis, visualizations, and applied ML experiments.
 
+* 💗 **APP mobile**
+  Expo, react native, Postgres, docker.
+
 > I promise to deliver more cool projects.
 
 ## ![Some Tech Stack](https://img.shields.io/badge/SOME%20TECH%20STACK-ff69b4?style=for-the-badge&logo=heart&logoColor=white) ₊˚ପ⊹
