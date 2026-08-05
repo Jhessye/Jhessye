@@ -64,6 +64,7 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge\&logo=javascript\&logoColor=white)
 
 ### 💗 Data & Intelligence
 
@@ -83,6 +84,7 @@ My projects are usually **system-oriented and practical**, mixing code, logic, a
 ![Godot](https://img.shields.io/badge/Godot-Game%20Engine-478CBF?style=for-the-badge\&logo=godot-engine)
 ![Looker Studio](https://img.shields.io/badge/Looker-Studio-4285F4?style=for-the-badge\&logo=google)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?style=for-the-badge\&logo=powerbi)
+![React Native](https://img.shields.io/badge/React-Native-blue?style=for-the-badge\&logo=react)
 
 > there's definitely more.
 ---
